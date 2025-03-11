@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
-A Python tool that converts HTML content from your clipboard to Markdown format. Available as a a Jupyter notebook.
+A Python Jupyter Notebook that converts HTML content from your clipboard to Markdown format.
 
 ## Features
 - Converts HTML from clipboard to Markdown
@@ -29,17 +29,6 @@ A Python tool that converts HTML content from your clipboard to Markdown format.
   - `jupyter` (for running notebook)
 
 ## Usage
-
-### Python Script Version
-1. Copy any HTML content to your clipboard
-2. Run the script:
-   ```bash
-   python clipboard2markdown.py
-   ```
-3. The converted Markdown will be automatically copied to your clipboard
-4. Paste anywhere you need the Markdown content
-
-### Jupyter Notebook Version
 - Run all cells in order
 - Copy HTML content to your clipboard
 - Run the last cell to convert and see the results
