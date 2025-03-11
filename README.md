@@ -1,9 +1,14 @@
-# Clipboard to Markdown Converter in Python
+# Clipboard-to-Markdown
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A simple Python tool that converts HTML content from your clipboard to Markdown format. This tool is available as a a Jupyter notebook.
+
+A Python tool that converts HTML content from your clipboard to Markdown format. Available as a a Jupyter notebook.
 
 ## Features
-
 - Converts HTML from clipboard to Markdown
 - Supports multiple HTML elements:
   - Headers (h1-h6)
@@ -17,7 +22,6 @@ A simple Python tool that converts HTML content from your clipboard to Markdown 
   - Paragraphs
 
 ## Requirements
-
 - Python 3.x
 - Jupyter Notebook (for notebook version)
 - Required Python packages:
@@ -56,11 +60,15 @@ A simple Python tool that converts HTML content from your clipboard to Markdown 
 - `<br>` to line breaks
 - `<p>` to paragraphs
 
-## License
-
-MIT License
-
 ## Contributing
+Feel free to contribute!
 
-Feel free to open issues or submit pull requests for improvements.
-```
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+<div align="right">
+
+[Back To Top ⬆️](#Clipboard-to-Markdown)
+</div>
+
