@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 
 A Python Jupyter Notebook that converts HTML content from your clipboard to Markdown format.
 
@@ -53,7 +51,7 @@ A Python Jupyter Notebook that converts HTML content from your clipboard to Mark
 Feel free to contribute!
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 
 <div align="right">
